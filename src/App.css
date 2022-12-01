@@ -1,0 +1,23 @@
+.align-label{
+  display: inline-block;
+  width: 250px;
+  font-size: 22px;
+}
+.align-input{
+  font-size: 22px;
+  width: 300px;
+}
+.space{
+  margin: 15px;
+}
+.button{
+  background-color: black;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 5px;
+  font-size: 22px;
+  color: white;
+}
+.font{
+  .font-size:22px;
+}
